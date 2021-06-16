@@ -9,7 +9,7 @@ def subtract(x,y):
 #Add multiplication implementation
 #new head
 def multiply(x,y):
-    return pass
+    return x*y
 #Add division implementation
 #new head
 def divide(x,y):
