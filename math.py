@@ -5,7 +5,7 @@ def add(x,y):
 #Add subtraction implementation
 #new head
 def subtract(x,y):
-    return pass
+    return x-y  #main branch
 #Add multiplication implementation
 #new head
 def multiply(x,y):
