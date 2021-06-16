@@ -13,5 +13,8 @@ def multiply(x,y):
 #Add division implementation
 #new head
 def divide(x,y):
-    return x/y
+    if y==0:
+	return ERROR
+    else:
+	return x/y
 
